@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://p7.hiclipart.com/preview/567/267/805/types-and-programming-languages-computer-programming-programmer-programming-language.jpg" alt="My Profile Picture" width="700"/>
-</div>
-<div align="center">
 
 # Hi 👋, I'm **Fenil Chodvadiya**  
 ✨ A 18-Year-Old  **Computer Engineer**  
