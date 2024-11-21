@@ -1,7 +1,6 @@
 <div align="center">
-# Hi 👋, I'm **Fenil Chodvadiya**  
-✨ A 18-Year-Old  **Computer Engineer**  
-
+  <h1 style="font-weight: bold; font-size: 3em;">Hi 👋, I'm <strong>Fenil Chodvadiya</strong></h1>
+  <h2 style="font-weight: bold; font-size: 2em; color: #4CAF50;">✨ A 18-Year-Old <strong>Computer Engineer</strong></h2>
 </div>
 
 
