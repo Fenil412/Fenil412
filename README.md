@@ -14,14 +14,29 @@
 - 💬 Ask me about Web Dev., Python, Java, OOPs, DSA, Data Science, Competitive programming.
 - ⚡ Fun fact: I believe that coding is not just about logic; it's an art form where creativity and logic meet to create something extraordinary!
 
-## 🌐 Connect with Me
+## 🌐 Socials:
 
-[![LinkedIn](https://www.linkedin.com/in/fenil-chodvadiya-0b5298284/)  
-[![Twitter](https://x.com/Fenil_412)
-[![Instagram](https://www.instagram.com/_fenil_412/)  
-[![Threads](https://www.threads.net/@_fenil_412)
-[![Codeforces](https://codeforces.com/profile/Fenil412)  
-[![Facebook](https://www.facebook.com/fenil.chodavdiya)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/fenil-chodvadiya-0b5298284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Fenil_412" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/_fenil_412/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.threads.net/@_fenil_412" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-12100E?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+  <a href="https://codeforces.com/profile/Fenil412" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F1F1F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.facebook.com/fenil.chodavdiya" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</div>
+
 
 
 ## 🛠 Tech Stack:
