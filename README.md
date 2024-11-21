@@ -39,64 +39,54 @@
 
 
 
+
 ## 🛠 Tech Stack:
 
 <div align="center">
-
-<!-- A -->
-<img src="https://img.icons8.com/color/48/000000/anaconda.png" alt="Anaconda" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS" width="40" height="40"/> 
-
-<!-- B -->
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/> 
-
-<!-- C -->
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/> 
-
-<!-- F -->
-<img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/> 
-
-<!-- G -->
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/github-pages.png" alt="GitHub Pages" width="40" height="40"/> 
-
-<!-- H -->
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/> 
-
-<!-- J -->
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
-<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery" width="40" height="40"/> 
-
-<!-- M -->
-<img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" width="40" height="40"/> 
-<img src="https://img.icons8.com/ios-filled/50/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> 
-
-<!-- N -->
-<img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/> 
-
-<!-- P -->
-<img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> 
-
-<!-- R -->
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" width="40" height="40"/> 
-
-<!-- S -->
-<img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" width="40" height="40"/> 
-
-<!-- T -->
-<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/> 
-
-<!-- W -->
-<img src="https://img.icons8.com/color/48/000000/windows-terminal.png" alt="Windows Terminal" width="40" height="40"/> 
-
+  <a href="https://www.anaconda.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://img.shields.io/badge/Windows_Terminal-4E4E4E?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
+  </a>
+  <a href="https://github.com/pages" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-003C57?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  </a>
 </div>
+
 
 
 
