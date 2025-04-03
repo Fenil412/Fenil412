@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at my Github Profile.
 - 💬 Ask me about Web Dev., Python, Java, OOPs, DSA, Data Science, Competitive programming.
 - ⚡ Fun fact: I believe that coding is not just about logic; it's an art form where creativity and logic meet to create something extraordinary!
-- Knight @Leetcode (1934), 3⭐ @Codeshef (1653), Codeforces (1057) 
+- Knight @Leetcode (1934), 3⭐ @Codeshef (1653), Codeforces (1061) 
 
 ## 🌐 Socials:
 
