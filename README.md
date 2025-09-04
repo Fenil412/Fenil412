@@ -6,7 +6,7 @@
 
 # 💫 About Me: 
 - 👀 I’m interested in Data Science and AI&ML.
-- 🌱 I’m currently learning Backend Development.
+- 🌱 I’m currently learning AI & ML.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🚀 To build innovative solutions that merge creativity with technology, aiming to make a meaningful impact in the world.
 - 👨‍💻 All of my projects are available at my Github Profile.
