@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-weight: bold; font-size: 3em;">Hi 👋, I'm <strong>Fenil Chodvadiya</strong></h1>
-  <h2 style="font-weight: bold; font-size: 2em; color: #4CAF50;">✨ A 19-Year-Old <strong>Software Engineer</strong></h2>
+  <h2 style="font-weight: bold; font-size: 2em; color: #4CAF50;">✨ A 20-Year-Old <strong>Software Engineer</strong></h2>
 </div>
 
 
@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at my Github Profile.
 - 💬 Ask me about Web Dev., Python, Java, OOPs, DSA, Data Science, Competitive programming.
 - ⚡ Fun fact: I believe that coding is not just about logic; it's an art form where creativity and logic meet to create something extraordinary!
-- Knight @Leetcode (2051), 3⭐ @Codechef (1653), Pupil @Codeforces (1277) 
+- Knight @Leetcode (2051), 3⭐ @Codechef (1653), Pupil @Codeforces (1300) 
 
 ## 🌐 Socials:
 
