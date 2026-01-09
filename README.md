@@ -134,10 +134,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenil412&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenil412&theme=github_dark&utcOffset=5.5" />
 </p>
-
-
-![Fenil412's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenil412&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenil412&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fenil412&theme=radical)](https://git.io/streak-stats)
