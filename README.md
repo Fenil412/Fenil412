@@ -121,7 +121,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fenil412&theme=github_dark" />
 </p>
 
@@ -133,8 +133,36 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenil412&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenil412&theme=github_dark&utcOffset=5.5" />
-</p>
+</p> -->
 
-  ![](https://github-readme-stats.vercel.app/api?username=Fenil412&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Fenil412&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenil412&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=Fenil412&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fenil412&theme=tokyonight&layout=compact&hide_border=true"
+  height="180"
+/>
+
+<!-- <img
+    src="https://github-readme-stats.vercel.app/api?username=Fenil412&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
+    height="180"
+  /> -->
+
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=Fenil412&theme=dark&hide_border=false"
+    height="180"
+  />
+
+  <!--<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenil412&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+    height="180"
+  />-->
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenil412&theme=tokyo-night&hide_border=true" height="280" />
+
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=Fenil412&theme=algolia&no-frame=true&margin-w=10" />-->
+
+
+</div>
